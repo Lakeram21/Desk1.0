@@ -1,0 +1,15 @@
+C:\Users\Laker\OneDrive\Desktop\Mega\bin\Debug\Mega.exe.config
+C:\Users\Laker\OneDrive\Desktop\Mega\bin\Debug\Mega.exe
+C:\Users\Laker\OneDrive\Desktop\Mega\bin\Debug\Mega.pdb
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.csproj.AssemblyReference.cache
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.csproj.SuggestedBindingRedirects.cache
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.MainMenu.resources
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.Properties.Resources.resources
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.csproj.GenerateResource.cache
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.csproj.CoreCompileInputs.cache
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.exe
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.pdb
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.AddQuote.resources
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.ViewAllQuotes.resources
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.DisplayQuote.resources
+C:\Users\Laker\OneDrive\Desktop\Mega\obj\Debug\Mega.SearchQuotes.resources
